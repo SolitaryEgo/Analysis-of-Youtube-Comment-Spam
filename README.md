@@ -22,4 +22,4 @@ video_name | 发表评论的 YouTube 视频的名称。这可以提供不同类�
 class | 目标变量，其中 1 表示垃圾评论，0 表示合法评论。此列是分类任务的重点。
 “`  
 
->数据来源：[kaggle]([https://www.heywhale.com/mw/dataset/66bef4db9b33c0f19c7a1c8c](https://www.kaggle.com/datasets/ahsenwaheed/youtube-comments-spam-dataset/data))
+>数据来源：[kaggle](https://www.kaggle.com/datasets/ahsenwaheed/youtube-comments-spam-dataset/data)
