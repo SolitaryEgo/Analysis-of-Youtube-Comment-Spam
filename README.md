@@ -1,5 +1,7 @@
 # Youtube 垃圾评论分析
 
+![Youtube](https://github.com/SolitaryEgo/Analysis-of-Youtube-Comment-Spam/blob/main/dataset-cover.png)
+
 ## 数据说明
 ### 字段	 |  说明
 
